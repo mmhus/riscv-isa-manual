@@ -8,7 +8,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 The RISC-V Instruction Set Manual is organized into the following volumes:
 
-- Volume I: Unprivileged Architecture
+- Volume I: Unprivileged Architecture haha
 - Volume II: Privileged Architecture
 
 ## Official and Draft Versions
