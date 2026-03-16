@@ -3,7 +3,7 @@
 The ISA manuals contain a mix of normative and informative (AKA non-normative) content.
 We use AsciiDoctor's anchor facility to tag normative text which is extracted by tools
 provided in the link:https://github.com/riscv/docs-resources[docs-resources GitHub repository]
-to create machine-readable and human-readable representations of normative rules.
+to create machine-readable and human-readable representations of normative rules. TEST
 
 == READ THIS FIRST
 
